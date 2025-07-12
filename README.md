@@ -26,7 +26,7 @@ This project focuses on exploring and analyzing a Netflix dataset to gain insigh
 The dataset used is `netflix_titles.csv`, which contains information on Netflix's available titles as of a specific point in time.
 
 The project uses a CSV dataset titled `"Zomato data .csv"` (assumed to be available locally in the same directory as the notebook).
-- <a href="https://github.com/Ramchandrakanade/Zomato-Data-Analysis-Dashboard/blob/main/Zomato%20data%20.csv">ExcelDataset</a>
+- <a href="netflix_titles.csv">ExcelDataset</a>
 
 - <a href="zomato,project.ipynb">code </a>
 
