@@ -28,7 +28,7 @@ The dataset used is `netflix_titles.csv`, which contains information on Netflix'
 The project uses a CSV dataset titled `"Zomato data .csv"` (assumed to be available locally in the same directory as the notebook).
 - <a href="netflix_titles.csv">ExcelDataset</a>
 
-- <a href="zomato,project.ipynb">code </a>
+- <a href="Data.ipynb">code </a>
 
 ## 📌 How to Run
 1. Clone the repository.
