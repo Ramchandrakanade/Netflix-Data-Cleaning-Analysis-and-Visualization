@@ -30,6 +30,14 @@ The project uses a CSV dataset titled `"Zomato data .csv"` (assumed to be availa
 
 - <a href="Data.ipynb">code </a>
 
+
+##  Dashboard
+
+<img width="1920" height="1080" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/11ab0675-42af-4c93-b212-462a15580314" />
+
+
+
+
 ## 📌 How to Run
 1. Clone the repository.
 2. Ensure all dependencies are installed (`pip install -r requirements.txt`).
